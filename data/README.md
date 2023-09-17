@@ -1,10 +1,3 @@
-# data
-
-Place data file(s) in this folder.
-
-Then, include codebooks (variables, and their descriptions) for your data file(s)
-using the following format.
-
 ## IMDB 5000 Movie Dataset
 
 In this dataset there are total of 28 dimensions/attributes. The metadata of this dataset is not available. The descriptions of each variable is based on understanding
